@@ -1,6 +1,7 @@
 ### Namaste :pray: 
 
 Technical Solution Architect with 22+ years of experience designing and delivering scalable enterprise applications across Banking, MDM, Telecom, and product engineering domains. Expert in translating business requirements into end-to-end solution architectures, defining system design, and ensuring alignment between product vision and technical execution.
+
 Strong in API-driven integration, micro-frontend architecture, and modular system design. Proven ability to manage cross-system dependencies, evaluate technical feasibility, and lead architecture decisions across complex enterprise environments.
 
 <!--
