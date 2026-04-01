@@ -5,8 +5,8 @@ Technical Solution Architect with 22+ years of experience designing and deliveri
 Strong in API-driven integration, micro-frontend architecture, and modular system design. Proven ability to manage cross-system dependencies, evaluate technical feasibility, and lead architecture decisions across complex enterprise environments.
 
 <!--
-[![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate)](https://github.com/alok-nakhate/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-nakhate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-nakhate&layout=compact&theme=default)
 -->
 
 ![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate&show_icons=true&include_all_commits=true&&hide=stars,issues)
