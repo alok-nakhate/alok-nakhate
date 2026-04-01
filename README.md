@@ -1,6 +1,7 @@
 ### Namaste :pray: 
 
-I'm Alok and I have 20+ years of rich experience in attaining detailed software products. Top-performer and motivator who has the added advantage of technology as leverage to achieve timely results. I do possess a good technical knowledge of Angular, functional knowledge of retail lending (banks & NBFCs) and master data management domains. My skills include a strategic planner, skillful at identifying customer needs, utilizing technology-driven solutions and formulating strategic road-maps. I burn calories and oxygenate my brain, by taking an hour walk in the morning, giving me a release before a day of stress. Over the weekends I pack the sandwiches or pull whatever I have out of the refrigerator, and then go find a scenic picnic place to create wonderful memories with my family and friends.
+Technical Solution Architect with 22+ years of experience designing and delivering scalable enterprise applications across Banking, MDM, Telecom, and product engineering domains. Expert in translating business requirements into end-to-end solution architectures, defining system design, and ensuring alignment between product vision and technical execution.
+Strong in API-driven integration, micro-frontend architecture, and modular system design. Proven ability to manage cross-system dependencies, evaluate technical feasibility, and lead architecture decisions across complex enterprise environments.
 
 <!--
 [![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate)](https://github.com/alok-nakhate/github-readme-stats) 
