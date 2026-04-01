@@ -1,15 +1,35 @@
 ### Namaste :pray: 
 
-Technical Solution Architect with 22+ years of experience designing and delivering scalable enterprise applications across Banking, MDM, Telecom, and product engineering domains. Expert in translating business requirements into end-to-end solution architectures, defining system design, and ensuring alignment between product vision and technical execution.
+# 👋:pray: Namaste, I'm Alok Nakhate
 
-Strong in API-driven integration, micro-frontend architecture, and modular system design. Proven ability to manage cross-system dependencies, evaluate technical feasibility, and lead architecture decisions across complex enterprise environments.
+### 🚀 Technical Solution Architect | Product Engineering Leader
 
-<!--
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-nakhate&layout=compact&theme=default)
--->
+💡 **22+ years of experience** designing and delivering scalable enterprise applications across  
+🏦 Banking | 📊 MDM | 📡 Telecom | 🧩 Product Engineering
 
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate&show_icons=true&theme=default)
+---
+
+## 🧠 About Me
+
+Technical Solution Architect with deep expertise in translating business vision into **scalable, enterprise-grade architectures**.
+
+- 🏗️ Architecting end-to-end enterprise solutions
+- 🔗 API-driven integrations & distributed systems
+- 🧩 Micro-frontend & modular UI architecture
+- ⚙️ Aligning product strategy with technical execution
+- 👥 Leading cross-functional engineering teams
+
+---
+
+## 🏆 Key Expertise
+
+```diff
++ Enterprise Architecture & System Design
++ Solution Architecture & Technical Leadership
++ API Design & Integration (REST, Middleware)
++ Micro-Frontend Architecture (ReactJS)
++ Performance Optimization & Scalability
++ Product Engineering & Platform Thinking
 
 <!--
 **alok-nakhate/alok-nakhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
