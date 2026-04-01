@@ -9,7 +9,7 @@ Strong in API-driven integration, micro-frontend architecture, and modular syste
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-nakhate&layout=compact&theme=default)
 -->
 
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate&show_icons=true&include_all_commits=true&&hide=stars,issues)
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-nakhate&show_icons=true&theme=default)
 
 <!--
 **alok-nakhate/alok-nakhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
