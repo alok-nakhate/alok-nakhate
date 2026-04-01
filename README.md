@@ -91,6 +91,16 @@ Technical Solution Architect specializing in **designing scalable enterprise sys
 
 ---
 
+## 📌 Featured Repositories
+
+🔹 **Micro-Frontend Architecture (React + Module Federation)**  
+https://github.com/alok-nakhate/raaghu-react  
+
+🔹 **API Integration Platform (Angular + REST + Module Federation)**  
+https://github.com/alok-nakhate/raaghu-angular 
+
+---
+
 ## ⚙️ Tech Stack
 
 ### 💻 Frontend Architecture
